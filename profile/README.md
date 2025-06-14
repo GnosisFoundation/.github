@@ -1,4 +1,11 @@
-# `Gnosis`
+
+<p align="center">
+  <picture>
+    <img alt="Gnosis" src="https://raw.githubusercontent.com/GnosisFoundation/.github/refs/heads/main/assets/banner.png" style="max-width: 100%;">
+  </picture>
+</p>
+
+
 
 `Gnosis` (naa·suhs) is derived from the common Greek word for knowledge. A fundamental pursuit that has driven humanity forward for centuries. 
 Built upon this foundation, our mission is to seek, explore, and provide knowledge in cyberspace, hoping to empower individuals who share
